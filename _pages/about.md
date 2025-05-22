@@ -27,4 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm eleanor and I'm really cool!. Hello!
+I'm a current PhD Candidate in Applied Mathematics at the University of Washington. I'm advised by [Bernard Deconinck](https://amath.washington.edu/people/bernard-deconinck). I study periodic surface water waves, called Stokes Waves, in high amplitude and low depth regimes. I'm also a student intern at Los Alamos National Lab, working on a numerical method to solve the Vlasov-Maxwell equations using Hermite polynomials.
+
+Previously, I graduated with a Bachelors from Harvey Mudd College, majoring in Mathematics, with a concentration in music. In the past, I have also worked on problems in plant pattern formation, computing julia sets, and engineeering education.
+
+Outside of work, I love board games and baking!
